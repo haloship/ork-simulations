@@ -1,2 +1,2 @@
 # simulations
-Repository to host rocket simulations
+Repository to host OpenRocket simulations
