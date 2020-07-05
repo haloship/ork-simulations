@@ -1,6 +1,9 @@
 # ork-simulations
 Repository to host OpenRocket simulations
 
+### Directory
+[Design Reference](##design-reference)
+
 ## Design Reference
 
 The goal is to design a dual-deployment rocket with roughly the following stages. In our case, we will be swapping the locations of the main chute and the drogue chute. 
