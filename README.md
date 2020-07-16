@@ -2,8 +2,8 @@
 Repository to host OpenRocket simulations
 
 ### Directory
-[Installing OpenRocket](##installation)
-[Design Reference](##design-reference)
+1. [Installing OpenRocket](##installation)
+1. [Design Reference](##design-reference)
 
 ## Installation
 
