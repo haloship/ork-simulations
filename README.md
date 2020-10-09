@@ -37,7 +37,7 @@ cd ~/OpenRocket && chmod +x OpenRocket-15.03.jar
 
 1. Run OpenRocket
 ```
-<path_to_java_8> -jar ~/OpenRocket/OpenRocket-15.03.jar
+java -jar ~/OpenRocket/OpenRocket-15.03.jar
 ```
 
 ## Design Reference
